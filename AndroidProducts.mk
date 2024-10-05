@@ -8,6 +8,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/derp_lancelot.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_lancelot-ap3a-user \
-    derp_lancelot-ap3a-userdebug \
-    derp_lancelot-ap3a-eng
+    derp_lancelot-user \
+    derp_lancelot-userdebug \
+    derp_lancelot-eng
